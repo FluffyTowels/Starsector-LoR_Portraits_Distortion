@@ -1,0 +1,22 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/Star_and_City/Circus/Emma.png",
+			"graphics/Star_and_City/Circus/Noah.png",
+			"graphics/Star_and_City/Hook_Office/Taein.png",
+			"graphics/Star_and_City/Hook_Office/McCullin.png",
+			"graphics/Star_and_City/Iron_Bros/Arnold.png",
+			"graphics/Star_and_City/Iron_Bros/Consta.png",
+			"graphics/Star_and_City/Iron_Bros/Mo.png",
+			"graphics/Star_and_City/Rats/Pete.png",
+			"graphics/Star_and_City/Rats/Mang-chi.png",
+		],
+		"standard_female":[
+			"graphics/Star_and_City/Hook_Office/Naoki.png",
+			"graphics/Star_and_City/Iron_Bros/Arnold.png",
+			"graphics/Star_and_City/Iron_Bros/Consta.png",
+			"graphics/Star_and_City/Iron_Bros/Mo.png",
+			"graphics/Star_and_City/Rats/Lenny.png",
+		],
+    }
+}
